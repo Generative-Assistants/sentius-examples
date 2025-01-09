@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Sentius Docs
+site_url: https://Generative-Assistants.github.io/sentius-examples/
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+  palette:
+    scheme: slate
+    primary: light blue
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Usage:
+    - api/index.md
+    - Dialog Sessions: api/dialog-sessions.md
+    - Chat: api/chat.md
