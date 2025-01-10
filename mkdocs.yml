@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Sentius Docs
-site_url: https://Generative-Assistants.github.io/sentius-examples/
+site_url: https://generative-assistants.github.io/sentius-examples/
 theme:
   name: material
   features:
@@ -8,9 +8,24 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
+    - content.code.copy
+    - content.tabs.link
   palette:
     scheme: slate
     primary: light blue
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 
 nav:
   - Home: index.md
@@ -18,4 +33,4 @@ nav:
   - API Usage:
     - api/index.md
     - Dialog Sessions: api/dialog-sessions.md
-    - Chat: api/chat.md
+    - Tasks and instructions: api/tasks.md
