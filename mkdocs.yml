@@ -2,7 +2,7 @@
 site_name: Sentius Docs
 site_url: https://generative-assistants.github.io/sentius-examples/
 theme:
-  name: minima
+  name: jekyll-theme-minimal
   features:
     - navigation.tabs
     - navigation.tabs.sticky
