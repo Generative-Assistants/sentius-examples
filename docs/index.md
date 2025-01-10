@@ -4,9 +4,11 @@
 
 Sentius Teach & Repeat Platform is **an agentic platform** that enables teams and companies to automate individual tasks and entire workflows using millions of concurrent AI agents.
 
-[![Sentius Demo Video]
-(https://img.youtube.com/vi/zwLQnmHttGk/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=zwLQnmHttGk)
+ <iframe width="560" height="315"
+src="ttps://www.youtube.com/watch?v=zwLQnmHttGk" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 Start with [Quick Start](quick-start).
 
