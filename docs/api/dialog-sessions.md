@@ -1,4 +1,4 @@
-# Dialog Sessions
+# Dialog Sessions API
 
 ## Creating or retrieving a session
 

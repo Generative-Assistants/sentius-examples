@@ -22,3 +22,9 @@ Your API key must be added as a query parameter alongside every request.
     ```
 
 We currently support a limited set of Browser Agent actions via API.
+
+# Browser Agent API
+Visit [Browser Agent API](api/browser-agent-api.md) section to learn how to integration **browser agent** directly into your applications.
+
+# Workflow Engine API
+Coming soon.
