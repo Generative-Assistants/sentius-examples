@@ -34,11 +34,11 @@ nav:
     - Overview: platform-components.md
     - Agents: 
       - Overview: platform-components/agents.md
-      - Browser Agent: platform-components/browser-agent.md
-      - OpenAPI Agent: platform-components/openapi-agent.md
-      - Prompt Agent: platform-components/prompt-agent.md
+      - Browser Agent: platform-components/agents/browser-agent.md
+      - OpenAPI Agent: platform-components/agents/openapi-agent.md
+      - Prompt Agent: platform-components/agents/prompt-agent.md
     - Services:
-      - Workflow Engine: platform-components/workflow-engine.md
+      - Workflow Engine: platform-components/services/workflow-engine.md
     - Applications: 
       - Sentius Copilot+: platform-components/applications/sentius-copilot-plus.md
       - Sentius Studio: platform-components/applications/sentius-studio.md
