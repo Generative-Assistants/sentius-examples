@@ -44,5 +44,9 @@ nav:
       - Sentius Studio: platform-components/applications/sentius-studio.md
   - API Usage:
     - api/index.md
-    - Dialog Sessions: api/dialog-sessions.md
-    - Tasks and instructions: api/tasks.md
+    - Browser Agent: 
+      - Overview: api/browser-agent-api.md
+      - Dialog Sessions: api/dialog-sessions.md
+      - Tasks and instructions: api/tasks.md
+    - Workflow Engine:
+      - Overview: api/workflows-engine-api.md
