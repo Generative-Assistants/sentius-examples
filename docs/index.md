@@ -71,6 +71,6 @@ Start with [Quick Start](quick-start).
 
 ## Get Support
 
-Want to get in touch with the Sentius team? Reach out to us via [email](ask@sentius.ai).
+Want to get in touch with the Sentius team? Reach out to us via [email](mailto:ask@sentius.ai).
 
 You're all set! Discover how to use the API in the [Quick Start](quick-start).
