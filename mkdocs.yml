@@ -31,7 +31,7 @@ nav:
   - Home: index.md
   - Quick Start: quick-start.md
   - Platform Components: 
-    platform-components.md
+    - platform-components.md
     - Agents: platform-components/agents.md
       - Browser Agent: platform-components/browser-agent.md
       - OpenAPI Agent: platform-components/openapi-agent.md
