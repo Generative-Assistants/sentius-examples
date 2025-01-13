@@ -27,4 +27,4 @@ We currently support a limited set of Browser Agent actions via API.
 Visit [Browser Agent API](api/browser-agent-api.md) section to learn how to integration **browser agent** directly into your applications.
 
 # Workflow Engine API
-Coming soon.
+Visit [Workflow Engine API](api/workflow-engine-api.md) section to learn how to use **workflow engine** to orchestrate your applications.
