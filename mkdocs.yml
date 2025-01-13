@@ -32,7 +32,8 @@ nav:
   - Quick Start: quick-start.md
   - Platform Components: 
     - platform-components.md
-    - Agents: platform-components/agents.md
+    - Agents: 
+      - platform-components/agents.md
       - Browser Agent: platform-components/browser-agent.md
       - OpenAPI Agent: platform-components/openapi-agent.md
       - Prompt Agent: platform-components/prompt-agent.md
