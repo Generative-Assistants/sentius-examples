@@ -4,7 +4,7 @@
 
 ## Learn Concepts
 
-Learn more about core Sentius Teach & Repeat Platform concepts to build complex applications with agents and workflows.
+Learn more about core Sentius Teach & Repeat Platform [concepts](concepts) to build complex applications with agents and workflows.
 
 ### Agents
 
