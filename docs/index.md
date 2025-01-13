@@ -54,9 +54,9 @@ At user level, Sentius **agentic platform** starts with three [Platform Componen
 ## How to Start Working With Sentius
 ### End-Users
 
-If you want to automate your work using Sentius **agentic platform**, you can start with [Sentius Copilot+](platform-components/sentius-copilot-plus.md). With it, you can ask the system to intelligently navigate websites to execute tasks for you, be that filling out the forms or extracting data. You can either ask it to figure out the task on its own, or you can show it how to execute that task by using its **Recorder** feature.
+If you want to automate your work using Sentius **agentic platform**, you can start with [Sentius Copilot+](platform-components/applications/sentius-copilot-plus.md). With it, you can ask the system to intelligently navigate websites to execute tasks for you, be that filling out the forms or extracting data. You can either ask it to figure out the task on its own, or you can show it how to execute that task by using its **Recorder** feature.
 
-If you want to build more complex automations, you can download [Sentius Studio](platform-components/sentius-studio.md). With it, you can build workflows that involve multiple website automation tasks done by our **browser agent**, text manipulation using LLMs done by our **prompt agent**, and, if you are up to it, calls to REST APIs of the web services done by our **OpenAPI agent**.
+If you want to build more complex automations, you can download [Sentius Studio](platform-components/applications/sentius-studio.md). With it, you can build workflows that involve multiple website automation tasks done by our **browser agent**, text manipulation using LLMs done by our **prompt agent**, and, if you are up to it, calls to REST APIs of the web services done by our **OpenAPI agent**.
 
 With Sentius Studio, you can run your automations locally on your computer, or you can deploy them to **Sentius Agentic Cloud**.
 
