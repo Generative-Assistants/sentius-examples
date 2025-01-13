@@ -53,10 +53,15 @@ Using this `id` value in the url, you can now interact with the session.
 ## Sending messages
 
 Payload arguments:
+
 `text` (string, required) - request message
+
 `instruction_id` (string, optional) - particular instruction id
+
 `close_tabs` (boolean, optional) - close browser tabs on completion
+
 `web_sites_for_tasks` (list of strings, optional) - list of websites to execute tasks on
+
 `utilize_user_instructions` (boolean, optional) - utilize user instructions
 
 === "Curl"
