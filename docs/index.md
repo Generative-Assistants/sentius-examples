@@ -4,11 +4,7 @@
 
 Sentius Teach & Repeat Platform is an **agentic platform** that enables teams and companies to automate individual tasks and entire workflows using millions of concurrent autonomous AI agents working together humans under human supervision.
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=zwLQnmHttGk" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwLQnmHttGk?si=ZUA2eGAAb5oRaDL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 AI agent, by definition, is a software component that is connected to one or more tools, and capable of figuring out how to solve a particular task on its own with minimal to no human intervention - **autonomously**. 
 
@@ -16,11 +12,8 @@ Our first AI agent is **browser agent**. It is designed to intelligently navigat
 
 > For example, you can ask Sentius browser agent to find a quarterly financial results presentation of a public company:
 
-<iframe width="560" height="315"
-src="https://youtu.be/hzhXlfm8ELw" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzhXlfm8ELw?si=ZUA2eGAAb5oRaDL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Our second AI agent is **OpenAPI agent**. It is designed to interact with a given web service's REST APIs as long as those APIs are described based on OpenAPI standard.
 
