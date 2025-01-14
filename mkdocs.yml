@@ -42,7 +42,7 @@ nav:
     - Applications: 
       - Sentius Copilot+: platform-components/applications/sentius-copilot-plus.md
       - Sentius Studio: platform-components/applications/sentius-studio.md
-  - API Usage:
+  - API:
     - api/index.md
     - Browser Agent: 
       - Overview: api/browser-agent-api.md
